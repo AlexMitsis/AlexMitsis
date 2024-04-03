@@ -1,6 +1,6 @@
 # Hi, I'm Alex!
 Currently working with LLMs<br>
-Applied Bioinformatics Student
+Applied Bioinformatics Student<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrosmitsis) 
 
 # 💻 Tech Stack:
@@ -10,7 +10,3 @@ Applied Bioinformatics Student
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexMitsis&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMitsis&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=AlexMitsis&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
