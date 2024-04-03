@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hi, I'm Alex!
+## Hi, I'm Alex!
 </div>
 <div align="center">
   
@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   
-## 💻 Main Tech Stack:
+### 💻 Main Tech Stack:
 </div>
 
 <p align="center">  
