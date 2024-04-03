@@ -16,11 +16,13 @@
 </p>
 
 
-<details><summary>  
+<details>
+  <summary>  
   
 ### 📊 GitHub Stats:
   </summary>
   <a href="http://www.github.com/AlexMitsis"><img src="https://github-readme-stats.vercel.app/api?username=AlexMitsis&show_icons=true&hide=issues,&count_private=true&title_color=000000&text_color=0f172a&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="AlexMitsis's GitHub stats" /></a><br/>
 </details>
 
-Feel free to reach out and connect!<br><br> [![Alexandros Mitsis](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrosmitsis) 
+<p align="center">Feel free to reach out and connect!</p>
+<p align="center"><a href="https://www.linkedin.com/in/alexandrosmitsis/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
