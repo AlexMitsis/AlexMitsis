@@ -1,6 +1,7 @@
 # Hi, I'm Alex!
-Currently working with LLMs<br>
-Applied Bioinformatics Student<br>
+👨‍💻 Software Engineer working with Machine Learning<br>
+🧬 Studying Applied Bioinformatics at AUTh<br>
+👨‍🎓 Studied Applied Informatics at UoM<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrosmitsis) 
 
 # 💻 Tech Stack:
