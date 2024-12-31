@@ -1,6 +1,7 @@
- 
-👨‍💻 I am a **Software Engineer** specializing in Backend Development and Machine Learning. 🤖🧠
-<br><br> Concurrently, I am pursuing an MSc in **Applied Bioinformatics** at <a href="https://websites.auth.gr/appbio/" target="_blank">AUTh</a>, after having acquired my BSc in **Applied Informatics** at <a href="https://www.uom.gr/en/dai/computer-science-and-technology" target="_blank">UoM</a><br><br>
+<div align="center">
+👨‍💻 I am a Software Engineer specializing in Full Stack Development and Machine Learning. 🤖🧠
+<br><br> Concurrently, I am pursuing an MSc in Applied Bioinformatics at <a href="https://websites.auth.gr/appbio/" target="_blank">AUTh</a>, after having acquired my BSc in Applied Informatics at <a href="https://www.uom.gr/en/dai/computer-science-and-technology" target="_blank">UoM</a><br><br>
+Currently developing a movie recommendation chatbot called ReelCrew! <br><br>
 </div>
 <div align="center">
 
