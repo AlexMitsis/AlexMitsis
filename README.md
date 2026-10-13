@@ -8,7 +8,6 @@ Concurrently, I am a MSc student in <strong>Applied Bioinformatics</strong> at <
 - Backend Engineering (API design, databases, authentication systems, system architecture, performance optimization)
 - AI-driven Applications, focusing on LLM and ML integrations within production systems
 - Data Engineering applied to large-scale, data-intensive systems
-- Machine Learning Algorithms and their practical applications across various domains
 
 ## 💻 Main Tech Stack:
 
