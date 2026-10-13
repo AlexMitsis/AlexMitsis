@@ -17,7 +17,6 @@ Concurrently, I am a MSc student in <strong>Applied Bioinformatics</strong> at <
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36"/>
 </p>
 
 
